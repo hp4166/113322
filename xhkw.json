@@ -642,7 +642,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/初中.json",
-      "jar": "./jar/相声.jar"
+      "jar": "https://cloud.lxweb.cn/f/WQYRUB/fty12.8.jar"
     },
     {
       "key": "高中",
@@ -653,7 +653,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/高中.json",
-      "jar": "./jar/相声.jar"
+      "jar": "https://cloud.lxweb.cn/f/WQYRUB/fty12.8.jar"
     },
     {
       "key": "哔哩哔哩",
@@ -664,7 +664,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/哔哩哔哩.json",
-      "jar": "https://cloud.lxweb.cn/f/zJljTz/XYQH_JOJO.jar"
+      "jar": "https://cloud.lxweb.cn/f/WQYRUB/fty12.8.jar"
     },
     {
       "key": "xh",
