@@ -511,7 +511,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/相声小品.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "美食",
@@ -522,7 +522,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/美食.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "健身",
@@ -533,7 +533,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/健身.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "国学",
@@ -544,7 +544,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/国学.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "百科",
@@ -555,7 +555,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/百科.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "地理",
@@ -566,7 +566,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/地理.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "科学",
@@ -577,7 +577,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/科学.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "戏 曲",
@@ -588,7 +588,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/戏曲.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "兔小贝",
@@ -609,7 +609,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/外语.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "幼儿",
@@ -620,7 +620,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/幼儿.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "小学",
@@ -631,7 +631,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/小学.json",
-      "jar": "./jar/相声.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "初中",
@@ -642,7 +642,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/初中.json",
-      "jar": "https://cloud.lxweb.cn/f/WQYRUB/fty12.8.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "高中",
@@ -653,7 +653,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./jiaoyu/高中.json",
-      "jar": "https://cloud.lxweb.cn/f/WQYRUB/fty12.8.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "哔哩哔哩",
@@ -664,7 +664,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/哔哩哔哩.json",
-      "jar": "https://cloud.lxweb.cn/f/WQYRUB/fty12.8.jar"
+      "jar": "./jar/fty12.8.jar"
     },
     {
       "key": "xh",
