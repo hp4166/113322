@@ -594,7 +594,7 @@
       "key": "兔小贝",
       "name": "🐇兔小贝┃儿童",
       "type": 3,
-      "api": "./lib/drpy2.js",
+      "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
