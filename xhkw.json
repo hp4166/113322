@@ -50,7 +50,7 @@
       "key": "js_v2-jrly",
       "name": "📯嘉靓┃切片",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/嘉靓.js"
     },
     {
@@ -106,7 +106,7 @@
       "name": "🍾超前┃点播",
       "type": 3,
       "playerType": 1,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/超前点播.js"
     },
     {
@@ -128,7 +128,7 @@
       "key": "飞云",
       "name": "⛅飞云┃切片",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/fy.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -187,7 +187,7 @@
       "key": "znjson",
       "name": "✂️ZNJ┃切片",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/zanzan.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -225,7 +225,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=",
-      "jar": "./jar/qj1209.jar"
+      "jar": "http://小盒.酷玩.fun:76/禁止贩卖"
     },
     {
       "key": "csp_xBPQ_qixing",
@@ -268,7 +268,7 @@
       "name": "🔥骚火┃电影",
       "type": 3,
       "playerType": 1,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/骚火电影.js"
     },
     {
@@ -450,14 +450,14 @@
       "key": "88看球",
       "name": "🏀88┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/88看球.js"
     },
     {
       "key": "JRKAN球迷",
       "name": "⚽JRKAN┃球迷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "ext": "./js/JRKAN.js"
     },
     {
@@ -465,7 +465,7 @@
       "name": "🚌动漫┃巴士",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/saohuo.jar",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -476,7 +476,7 @@
       "name": "🚠维奇┃动漫",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/saohuo.jar",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -486,7 +486,7 @@
       "key": "斗鱼",
       "name": "🐬斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -496,7 +496,7 @@
       "key": "虎牙",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy2.js",
+      "api": "./api/drpy2.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -594,7 +594,7 @@
       "key": "兔小贝",
       "name": "🐇兔小贝┃儿童",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./api/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
